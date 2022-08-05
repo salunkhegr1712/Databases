@@ -1,0 +1,23 @@
+{
+  "name": "databases",
+  "version": "1.0.0",
+  "description": "Nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salunkhegr1712/Databases.git"
+  },
+  "author": "Ghansham R Salunkhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salunkhegr1712/Databases/issues"
+  },
+  "homepage": "https://github.com/salunkhegr1712/Databases#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
